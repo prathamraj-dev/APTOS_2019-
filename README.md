@@ -79,16 +79,6 @@ The project incorporates:
 
 **Note:** Google Drive is used to store datasets, model checkpoints, and experiment outputs.
 
-## 📁 Project Structure
-
-```text
-APTOS-XAI-Project/
-│
-├── APTOS_Uncertainty_XAI_Study_Colab.ipynb
-│
-└── README.md
-```
-
 ## 📈 Expected Outputs
 
 - Diabetic Retinopathy classification results.
